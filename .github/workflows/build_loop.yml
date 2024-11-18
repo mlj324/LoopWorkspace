@@ -284,7 +284,6 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           future_carbs_4h \
           now_line \
-          lnl_icon \
           meal_week \
           profiles \
           basal_lock 
